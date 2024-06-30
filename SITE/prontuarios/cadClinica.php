@@ -23,7 +23,7 @@
 	 </div>
 	 <div class="col-sm-12 col-lg-12">
  		Data:
- 		<input class="form-control" type="date" name="date">
+ 		<input class="form-control" type="date" name="data">
  	</div>
 	 <div class="col-sm-12 col-lg-12">
 	 	Receita:

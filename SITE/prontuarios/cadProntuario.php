@@ -1,7 +1,7 @@
 <?php
 
  $diagnostico	= $_POST['diagnostico'];
- $date			= $_POST['date'];
+ $date			= $_POST['data'];
  $Receita		= $_POST['Receita'];
  $Evolucao		= $_POST['Evolucao'];
  $sumarioDeAlta = $_POST['sumarioDeAlta'];

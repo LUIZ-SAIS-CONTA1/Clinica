@@ -19,7 +19,7 @@ $rs = mysqli_query($con, $sql) or die ("".mysqli_error($con));
 //echo "$rs";
 echo "<table border='0' class='table'>
 <th>Diagnostico</th>
-<th>data</th>
+<th>Data</th>
 <th>Receita</th>
 <th>Evolução</th>
 <th>Sumario De Alta</th>

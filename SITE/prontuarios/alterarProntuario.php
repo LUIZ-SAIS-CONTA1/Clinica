@@ -11,7 +11,7 @@
 	<?php
 	$codigo = $_GET ['id'];
 	include ('../conexao.php');
-	$sql = "select * from prontuario where ID_prontuario =  $codigo";
+	$sql = "select * from prontuario where ID_prontuario = $codigo";
 
 	$recordSet = mysqli_query($con, $sql) or die ("Erro ao consultar dados no banco (prontuario)" . mysqli_error($con));
 
